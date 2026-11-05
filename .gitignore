@@ -1,0 +1,68 @@
+# --- secrets and credentials ------------------------------------------------
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.p12
+*.token
+id_rsa*
+id_ed25519*
+settings.json
+secrets*.json
+credentials*
+
+# --- data, databases, archives ---------------------------------------------
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.db
+*.db-*
+*.dump
+*.parquet
+*.h5
+*.h5ad
+*.npy
+*.xml.gz
+*.tsv.gz
+*.csv.gz
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.bundle
+data/
+cache/
+workspaces/
+
+# --- Python ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# --- Node / frontend -------------------------------------------------------
+node_modules/
+build/
+dist/
+.react-router/
+.vite/
+coverage/
+
+# --- logs and local state ---------------------------------------------------
+*.log
+logs/
+.cache/
+tmp/
+
+# --- editors and OS -----------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
