@@ -33,8 +33,7 @@ A multi-agent system for therapeutic target discovery.
   <img src="assets/targetmind-demo-preview.webp" alt="TargetMind demo: three diseases, one workspace — click to watch the full video" width="860">
 </a>
 
-<sub>Click to watch the full 76 s demo — three diseases, one workspace: renal fibrosis, ADPKD and HCM.
-<br>Candidate target names are blurred. &nbsp;<a href="assets/targetmind-demo.mp4">MP4</a> · <a href="assets/targetmind-demo.webm">WebM</a></sub>
+<sub>Demo presentation</sub>
 
 </div>
 
@@ -145,11 +144,11 @@ risk.
 
 | Agent | Evidence dimension | Delivers |
 |:--|:--|:--|
-| 🧑‍🔬 **Chief Scientist** | Chairs the roundtable | Plan, nomination, novelty screen, consensus, final report |
-| 🧬 **Genetics** | Human genetics, constraint | GWAS and credible sets, rare variants, direction of effect |
-| 🔬 **Disease Biology** | Mechanism, causality | Knockout, knock-down and pharmacology studies; pathway context |
-| 📊 **Omics** | Expression, clinical relevance | Differential expression, cell-type attribution, severity association |
-| 💊 **Medicinal Chemistry** | Druggability, safety | Tractability, known ligands, structural pockets, tissue safety |
+| **Chief Scientist** | Chairs the roundtable | Plan, nomination, novelty screen, consensus, final report |
+| **Genetics** | Human genetics, constraint | GWAS and credible sets, rare variants, direction of effect |
+| **Disease Biology** | Mechanism, causality | Knockout, knock-down and pharmacology studies; pathway context |
+| **Omics** | Expression, clinical relevance | Differential expression, cell-type attribution, severity association |
+| **Medicinal Chemistry** | Druggability, safety | Tractability, known ligands, structural pockets, tissue safety |
 
 <br>
 
@@ -305,7 +304,7 @@ python sandbox/tools/tm_discover.py --help   # candidate pool, evidence matrix, 
 
 <div align="center">
 
-<a href="https://www.lilab-ecust.cn/targetmind/"><b>lilab-ecust.cn/targetmind</b></a>
+[![TargetMind Website](https://img.shields.io/badge/TargetMind-Website-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lilab-ecust.cn/targetmind/)
 
 <br>
 
