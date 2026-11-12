@@ -19,7 +19,7 @@ A multi-agent system for therapeutic target discovery.
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)](#quick-start)
 [![FastAPI](https://img.shields.io/badge/FastAPI-service-009688?style=flat-square&logo=fastapi&logoColor=white)](#quick-start)
 [![Docker](https://img.shields.io/badge/Docker-sandboxed%20agents-2496ED?style=flat-square&logo=docker&logoColor=white)](#quick-start)
-[![License](https://img.shields.io/badge/license-all%20rights%20reserved-555555?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-EF9421?style=flat-square&logo=creativecommons&logoColor=white)](LICENSE)
 
 </div>
 
@@ -308,6 +308,6 @@ python sandbox/tools/tm_discover.py --help   # candidate pool, evidence matrix, 
 
 <br>
 
-<sub>Copyright © 2026 TargetMind. All rights reserved. See <a href="LICENSE">LICENSE</a>.</sub>
+<sub>Copyright © 2026 TargetMind. Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> — see <a href="LICENSE">LICENSE</a>.</sub>
 
 </div>
